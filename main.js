@@ -1,0 +1,8 @@
+console.log("Console project/ project 77")
+console.log("evan".concat("tsan"))
+var c = (17)
+var d = (3)
+console.log(c+d)
+console.log(c-d)
+console.log(c*d)
+console.log(c/d)
